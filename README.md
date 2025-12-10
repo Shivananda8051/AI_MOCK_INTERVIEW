@@ -1,10 +1,6 @@
 # AI Mock Interview Platform
 
 <div align="center">
-  <br />
-  <img src="https://raw.githubusercontent.com/Shivananda8051/AI_MOCK_INTERVIEW/main/public/pattern.png" alt="Project Banner" width="800">
-  <br />
-  
   <div>
     <img src="https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js" alt="Next.js" />
     <img src="https://img.shields.io/badge/React-18.2-blue?style=for-the-badge&logo=react" alt="React" />
@@ -19,7 +15,6 @@
   <p align="center">Practice real interviews with AI voice agents and get instant feedback on your performance</p>
   
   <p align="center">
-    <a href="#live-demo">Live Demo</a> •
     <a href="#features">Features</a> •
     <a href="#quick-start">Quick Start</a> •
     <a href="#tech-stack">Tech Stack</a> •
@@ -29,7 +24,6 @@
 </div>
 
 ## 📋 Table of Contents
-- [Live Demo](#live-demo)
 - [Features](#features)
 - [Quick Start](#quick-start)
 - [Tech Stack](#tech-stack)
