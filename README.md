@@ -18,7 +18,6 @@
     <a href="#features">Features</a> •
     <a href="#quick-start">Quick Start</a> •
     <a href="#tech-stack">Tech Stack</a> •
-    <a href="#screenshots">Screenshots</a> •
     <a href="#contributing">Contributing</a>
   </p>
 </div>
@@ -30,14 +29,9 @@
 - [Project Structure](#project-structure)
 - [Environment Variables](#environment-variables)
 - [API Reference](#api-reference)
-- [Screenshots](#screenshots)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
-
-## 🚀 Live Demo
-**Coming Soon** - Deploying to Vercel
 
 ## ✨ Features
 
